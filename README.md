@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Richard Zúñiga
+# 👋 Hi, I'm Richard
 
 ## 🧑‍💻 About Me
 I'm a Systems Engineer with 12+ years of experience in IT, specializing in **cybersecurity**, **software development**, **network administration**, and **automation**. I’m passionate about solving complex technical challenges, streamlining operations, and building secure, high-performance systems.
